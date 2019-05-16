@@ -1,1 +1,1 @@
-Hello World v2
+Spring Boot hello world. Should read "Greetings " + numberOfHits + " from Spring Boot!"
