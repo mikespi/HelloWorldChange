@@ -11,7 +11,7 @@ public class HelloController {
 	@RequestMapping("/")
     public String index() {
 		value++;
-        return String.format("Greetings %d from Spring Boot!", value);
+        return String.format("Greetings %d from Spring Boot!!", value);
     }
 
 }
